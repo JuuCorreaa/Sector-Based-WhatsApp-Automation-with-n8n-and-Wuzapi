@@ -120,7 +120,7 @@ Operational logging and traceability
   "timestamp": "2026-04-22T10:00:00Z"
 }
  Run locally
-git clone https://github.com/seu-usuario/multi-agent-whatsapp-automation.git
+git clone https://github.com/JuuCorreaa/multi-agent-whatsapp-automation.git
 cd multi-agent-whatsapp-automation
 npm install
 npm run dev

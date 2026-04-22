@@ -1,4 +1,4 @@
-# Multi-Agent WhatsApp Automation Platform
+# Multi-agent WhatsApp automation platform using n8n, webhooks and APIs for real-time workflow orchestration.
 
 Production-ready automation platform designed to orchestrate sector-based WhatsApp service flows using domain-specific agents, webhooks, workflow automation, and system integrations.
 
